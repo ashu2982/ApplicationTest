@@ -1,0 +1,6 @@
+server:
+  port: 2931
+
+spring:
+  application:
+    name: AppConfig
